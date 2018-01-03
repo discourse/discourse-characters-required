@@ -1,0 +1,6 @@
+en:
+  js:
+    characters_required:
+      one: "1 character required"
+      other: "%{count} characters required"
+

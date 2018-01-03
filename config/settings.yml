@@ -1,0 +1,4 @@
+plugins:
+  characters_required_enabled:
+    client: true
+    default: true

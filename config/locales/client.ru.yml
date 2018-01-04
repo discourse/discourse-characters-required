@@ -3,3 +3,4 @@ ru:
     characters_required:
       one: "1 требуется набрать"
       other: "%{count} требуется набрать"
+      few: "%{count} требуется набрать"

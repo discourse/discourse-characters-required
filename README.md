@@ -8,7 +8,7 @@ to go through.
 ## Installation
 
 Follow our [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157)
-howto, using `git clone https://github.com/discourse/discourse-tooltips.git`
+howto, using `git clone https://github.com/discourse/discourse-characters-required.git`
 as the plugin command.
 
 To enable, make sure the `characters required enabled` site setting is set to true.

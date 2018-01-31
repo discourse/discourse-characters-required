@@ -5,4 +5,6 @@
 # To work with us on translations, join this project:
 # https://www.transifex.com/projects/p/discourse-org/
 
-fi: {}
+fi:
+  site_settings:
+    characters_required_enabled: 'Näytä käyttäjälle, montako merkkiä vielä vaaditaan'

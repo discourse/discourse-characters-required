@@ -5,4 +5,8 @@
 # To work with us on translations, join this project:
 # https://www.transifex.com/projects/p/discourse-org/
 
-de: {}
+de:
+  js:
+    characters_required:
+      one: "1 Zeichen erforderlich"
+      other: "%{count} Zeichen erforderlich"

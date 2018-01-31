@@ -5,4 +5,6 @@
 # To work with us on translations, join this project:
 # https://www.transifex.com/projects/p/discourse-org/
 
-es: {}
+es:
+  site_settings:
+    characters_required_enabled: 'Mostrar a los usuarios cuántos caracteres como mínimo son obligatorios'

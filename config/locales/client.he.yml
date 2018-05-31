@@ -9,4 +9,6 @@ he:
   js:
     characters_required:
       one: "נדרש תו אחד"
+      two: "נדרשים %{count} תווים"
+      many: "נדרשים %{count} תווים"
       other: "נדרשים %{count} תווים"

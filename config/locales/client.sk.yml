@@ -10,4 +10,5 @@ sk:
     characters_required:
       one: "1 požadovaný znak"
       few: "%{count} požadované znaky"
+      many: "%{count} požadované znaky"
       other: "%{count} požadované znaky"

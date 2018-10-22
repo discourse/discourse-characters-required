@@ -1,3 +1,3 @@
 export default {
-  shouldRender: args => args && args.editorType === 'composer'
+  shouldRender: args => args && args.editorType === "composer"
 };

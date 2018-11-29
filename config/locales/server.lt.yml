@@ -5,6 +5,6 @@
 # To work with us on translations, join this project:
 # https://www.transifex.com/projects/p/discourse-org/
 
-sl:
+lt:
   site_settings:
-    characters_required_enabled: 'Uporabnikom prikaži koliko znakov je zahtevanih'
+    characters_required_enabled: 'Rodyti nariams kiek privalomų simbolių'

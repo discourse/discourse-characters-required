@@ -5,4 +5,10 @@
 # To work with us on translations, join this project:
 # https://www.transifex.com/projects/p/discourse-org/
 
-sl: {}
+sl:
+  js:
+    characters_required:
+      one: "Zahtevan je 1 znak"
+      two: "Zahtevana sta %{count} znaka"
+      few: "Zahtevanih je %{count} znakov"
+      other: "Zahtevanih je %{count} znakov"

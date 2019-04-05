@@ -5,6 +5,6 @@
 # To work with us on translations, join this project:
 # https://www.transifex.com/projects/p/discourse-org/
 
-ko:
+hy:
   site_settings:
-    characters_required_enabled: '필요한 문자 수 표시'
+    characters_required_enabled: 'Ցուցադրել օգտատերերին, թե քանի սիմվոլ է պահանջվում '

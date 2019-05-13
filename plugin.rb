@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # name: discourse-characters-required
 # about: Show users how many characters are required before posting
 # version: 0.1

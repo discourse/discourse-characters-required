@@ -1,6 +1,6 @@
 en:
   js:
     characters_required:
-      one: "1 character required"
+      one: "%{count} character required"
       other: "%{count} characters required"
 

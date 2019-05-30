@@ -8,5 +8,5 @@
 fi:
   js:
     characters_required:
-      one: "vielä 1 merkki vaaditaan"
+      one: "vielä %{count} merkki vaaditaan"
       other: "vielä %{count} merkkiä vaaditaan"

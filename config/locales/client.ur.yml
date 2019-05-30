@@ -8,5 +8,5 @@
 ur:
   js:
     characters_required:
-      one: "1 حرف لازمی ہے"
+      one: "%{count} حرف لازمی ہے"
       other: "%{count} حروف لازمی ہیں"

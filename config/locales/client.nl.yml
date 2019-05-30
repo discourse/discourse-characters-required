@@ -8,5 +8,5 @@
 nl:
   js:
     characters_required:
-      one: "1 teken verplicht"
+      one: "%{count} teken verplicht"
       other: "%{count} tekens verplicht"

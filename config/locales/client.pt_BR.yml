@@ -8,5 +8,5 @@
 pt_BR:
   js:
     characters_required:
-      one: "1 caractere exigido"
+      one: "%{count} caractere exigido"
       other: "%{count} caracteres exigidos"

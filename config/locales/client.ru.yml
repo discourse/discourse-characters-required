@@ -8,7 +8,7 @@
 ru:
   js:
     characters_required:
-      one: "1 требуется набрать"
+      one: "%{count} требуется набрать"
       few: "%{count} требуется набрать"
       many: "%{count} требуется набрать"
       other: "%{count} требуется набрать"

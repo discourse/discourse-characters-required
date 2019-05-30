@@ -8,5 +8,5 @@
 hy:
   js:
     characters_required:
-      one: " պահանջվում է 1 սիմվոլ"
+      one: " պահանջվում է %{count} սիմվոլ"
       other: " պահանջվում է %{count} սիմվոլ"

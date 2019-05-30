@@ -8,7 +8,7 @@
 sl:
   js:
     characters_required:
-      one: "Zahtevan je 1 znak"
+      one: "Zahtevan je %{count} znak"
       two: "Zahtevana sta %{count} znaka"
       few: "Zahtevanih je %{count} znakov"
       other: "Zahtevanih je %{count} znakov"

@@ -8,7 +8,7 @@
 cs:
   js:
     characters_required:
-      one: "vyžadován 1 znak"
+      one: "vyžadován %{count} znak"
       few: "vyžadovány %{count} znaky"
       many: "vyžadováno %{count} znaků"
       other: "vyžadováno %{count} znaků"

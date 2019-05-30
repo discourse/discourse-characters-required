@@ -8,5 +8,5 @@
 de:
   js:
     characters_required:
-      one: "1 Zeichen erforderlich"
+      one: "%{count} Zeichen erforderlich"
       other: "%{count} Zeichen erforderlich"

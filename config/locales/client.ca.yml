@@ -8,5 +8,5 @@
 ca:
   js:
     characters_required:
-      one: "es necessita 1 caràcter"
+      one: "es necessita %{count} caràcter"
       other: " es necessiten%{count}caràcters"

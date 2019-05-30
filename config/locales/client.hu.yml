@@ -8,5 +8,5 @@
 hu:
   js:
     characters_required:
-      one: "1 karakter szükséges"
+      one: "%{count} karakter szükséges"
       other: "%{count} karakter szükséges"

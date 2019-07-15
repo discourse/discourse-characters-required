@@ -9,4 +9,4 @@ ca:
   js:
     characters_required:
       one: "es necessita %{count} caràcter"
-      other: " es necessiten%{count}caràcters"
+      other: "calen %{count} caràcters"

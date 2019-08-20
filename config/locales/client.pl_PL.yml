@@ -8,7 +8,7 @@
 pl_PL:
   js:
     characters_required:
-      one: "%{count}wymagany znak"
-      few: "%{count}wymagane znaki"
-      many: "%{count}wymaganych znaków"
-      other: "%{count}wymaganych znaków"
+      one: "%{count} wymagany znak"
+      few: "%{count} wymagane znaki"
+      many: "%{count} wymaganych znaków"
+      other: "%{count} wymaganych znaków"

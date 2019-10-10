@@ -7,4 +7,4 @@
 
 ca:
   site_settings:
-    characters_required_enabled: 'Mostra als usuaris quants caràcters són necessaris'
+    characters_required_enabled: 'Mostra als usuaris quants caràcters calen'

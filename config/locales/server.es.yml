@@ -7,4 +7,4 @@
 
 es:
   site_settings:
-    characters_required_enabled: 'Mostrar a los usuarios cuántos caracteres son requeridos'
+    characters_required_enabled: 'Mostrar a los usuarios cuántos caracteres se requieren'

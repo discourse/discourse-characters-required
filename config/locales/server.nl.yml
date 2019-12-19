@@ -7,4 +7,4 @@
 
 nl:
   site_settings:
-    characters_required_enabled: 'Laat gebruikers zien hoeveel tekens verplicht is'
+    characters_required_enabled: 'Aantal vereiste tekens aan gebruikers tonen'

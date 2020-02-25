@@ -5,4 +5,6 @@
 # To work with us on translations, join this project:
 # https://www.transifex.com/projects/p/discourse-org/
 
-id: {}
+id:
+  site_settings:
+    characters_required_enabled: 'Tunjukkan pada pengguna berapa banyak karakter yang diperlukan'

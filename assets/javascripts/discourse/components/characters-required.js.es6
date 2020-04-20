@@ -1,8 +1,8 @@
-import computed from "ember-addons/ember-computed-decorators";
+import discourseComputed from "discourse-common/utils/decorators";
 
 export default Ember.Component.extend({
   classNames: ["characters-required"],
 
-  @computed("composer.missingReplyCharacters")
+  @discourseComputed("composer.missingReplyCharacters")
   showRequired: missing => missing > 0
 });

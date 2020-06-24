@@ -8,5 +8,5 @@
 pt:
   js:
     characters_required:
-      one: "Falta %{count} caracter"
-      other: "Faltam %{count} caracteres"
+      one: "Falta %{count} caráter"
+      other: "Faltam %{count} carateres"

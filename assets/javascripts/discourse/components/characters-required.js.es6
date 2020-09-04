@@ -4,5 +4,5 @@ export default Ember.Component.extend({
   classNames: ["characters-required"],
 
   @discourseComputed("composer.missingReplyCharacters")
-  showRequired: missing => missing > 0
+  showRequired: (missing) => missing > 0,
 });

@@ -4,4 +4,12 @@
 # To work with us on translations, join this project:
 # https://translate.discourse.org/
 
-ar: 
+ar:
+  js:
+    characters_required:
+      zero: "%{count} characters required"
+      one: "%{count} character required"
+      two: "%{count} characters required"
+      few: "%{count} characters required"
+      many: "%{count} characters required"
+      other: "%{count} characters required"

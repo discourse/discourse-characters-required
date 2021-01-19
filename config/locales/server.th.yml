@@ -4,4 +4,6 @@
 # To work with us on translations, join this project:
 # https://translate.discourse.org/
 
-th: 
+th:
+  site_settings:
+    characters_required_enabled: 'Show users how many characters are required'

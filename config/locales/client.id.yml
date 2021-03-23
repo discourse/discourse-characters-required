@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 id:
+  js:
+    characters_required:
+      other: "%{count} karakter dibutuhkan"

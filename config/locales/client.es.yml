@@ -8,4 +8,4 @@ es:
   js:
     characters_required:
       one: "%{count} carácter como mínimo"
-      other: "%{count} caracteres requeridos"
+      other: "%{count} caracteres como mínimo"

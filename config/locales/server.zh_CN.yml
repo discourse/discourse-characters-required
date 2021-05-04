@@ -6,4 +6,4 @@
 
 zh_CN:
   site_settings:
-    characters_required_enabled: '显示给用户还需要多少个字符'
+    characters_required_enabled: '向用户显示还需要多少个字符'

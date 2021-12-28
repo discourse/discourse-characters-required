@@ -5,3 +5,11 @@
 # https://translate.discourse.org/
 
 ar:
+  js:
+    characters_required:
+      zero: "عدد الحروف المطلوبة: %{count}"
+      one: "عدد الحروف المطلوبة: %{count}"
+      two: "عدد الحروف المطلوبة: %{count}"
+      few: "عدد الحروف المطلوبة: %{count}"
+      many: "عدد الحروف المطلوبة: %{count}"
+      other: "عدد الحروف المطلوبة: %{count}"

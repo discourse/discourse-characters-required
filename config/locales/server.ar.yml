@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 ar:
+  site_settings:
+    characters_required_enabled: 'عرض عدد الحروف المطلوبة للمستخدمين'

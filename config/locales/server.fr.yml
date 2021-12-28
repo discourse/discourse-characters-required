@@ -6,4 +6,4 @@
 
 fr:
   site_settings:
-    characters_required_enabled: 'Afficher le nombre de caractères requis'
+    characters_required_enabled: 'Afficher aux utilisateurs le nombre de caractères requis'

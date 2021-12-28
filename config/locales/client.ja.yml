@@ -7,4 +7,4 @@
 ja:
   js:
     characters_required:
-      other: "%{count}文字以上必須"
+      other: "%{count}文字以上が必要です"

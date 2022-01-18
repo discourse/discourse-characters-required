@@ -6,4 +6,4 @@
 
 fi:
   site_settings:
-    characters_required_enabled: 'Näytä käyttäjälle, montako merkkiä vielä vaaditaan'
+    characters_required_enabled: 'Näytä käyttäjälle kuinka monta merkkiä vaaditaan'

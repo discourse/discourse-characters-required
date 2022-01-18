@@ -7,5 +7,5 @@
 fi:
   js:
     characters_required:
-      one: "vielä %{count} merkki vaaditaan"
-      other: "vielä %{count} merkkiä vaaditaan"
+      one: "%{count} merkki vaaditaan"
+      other: "%{count} merkkiä vaaditaan"

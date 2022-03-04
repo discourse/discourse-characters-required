@@ -5,6 +5,7 @@
 # version: 0.1
 # authors: Robin Ward
 # url: https://github.com/discourse/discourse-characters-required
+# transpile_js: true
 
 enabled_site_setting :characters_required_enabled
 

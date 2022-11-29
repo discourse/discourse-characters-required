@@ -7,5 +7,5 @@
 nl:
   js:
     characters_required:
-      one: "%{count} teken verplicht"
-      other: "%{count} tekens verplicht"
+      one: "%{count} teken vereist"
+      other: "%{count} tekens vereist"

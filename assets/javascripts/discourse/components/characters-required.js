@@ -1,4 +1,5 @@
 import discourseComputed from "discourse-common/utils/decorators";
+import Ember from "ember";
 
 export default Ember.Component.extend({
   classNames: ["characters-required"],

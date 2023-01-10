@@ -7,5 +7,5 @@
 tr_TR:
   js:
     characters_required:
-      one: "%{count}karakter gerekli "
-      other: "%{count}karakter gerekli "
+      one: "%{count} karakter gerekli "
+      other: "%{count} karakter gerekli "

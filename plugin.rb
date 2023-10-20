@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
 # name: discourse-characters-required
-# about: Show users how many characters are required before posting
+# about: Adds a count of characters required to create a post in the composer.
+# meta_topic_id: 77195
 # version: 0.1
 # authors: Robin Ward
 # url: https://github.com/discourse/discourse-characters-required

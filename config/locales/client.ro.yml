@@ -5,3 +5,8 @@
 # https://translate.discourse.org/
 
 ro:
+  js:
+    characters_required:
+      one: "%{count} caracter necesar"
+      few: "%{count} caractere necesare"
+      other: "%{count} de caractere necesare"

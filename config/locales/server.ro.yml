@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 ro:
+  site_settings:
+    characters_required_enabled: 'Arată utilizatorilor câte caractere sunt necesare'

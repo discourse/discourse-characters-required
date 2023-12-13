@@ -1,7 +1,7 @@
-import { setupRenderingTest } from "discourse/tests/helpers/component-test";
-import { module, test } from "qunit";
 import { render } from "@ember/test-helpers";
 import { hbs } from "ember-cli-htmlbars";
+import { module, test } from "qunit";
+import { setupRenderingTest } from "discourse/tests/helpers/component-test";
 
 module("Integration | Component | characters-required", function (hooks) {
   setupRenderingTest(hooks);

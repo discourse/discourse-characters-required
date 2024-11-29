@@ -1,9 +1,11 @@
 import Component from "@ember/component";
+import { classNames } from "@ember-decorators/component";
 import discourseComputed from "discourse-common/utils/decorators";
 
-export default Component.extend({
-  classNames: ["characters-required"],
-
+@classNames("characters-required")
+export default class CharactersRequired extends Component {
   @discourseComputed("composer.missingReplyCharacters")
-  showRequired: (missing) => missing > 0,
-});
+  showRequired(missing) {
+    return missing > 0;
+  }
+}

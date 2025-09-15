@@ -7,5 +7,5 @@
 pt:
   js:
     characters_required:
-      one: "Falta %{count} caráter"
-      other: "Faltam %{count} carateres"
+      one: "%{count} caráter necessário"
+      other: "%{count} carateres necessários"

@@ -7,12 +7,10 @@ module("Integration | Component | characters-required", function (hooks) {
   setupRenderingTest(hooks);
 
   test("it renders", async function (assert) {
-    const self = this;
-
     this.set("composer", { missingReplyCharacters: 10 });
 
     await render(
-      <template><CharactersRequired @composer={{self.composer}} /></template>
+      <template><CharactersRequired @composer={{this.composer}} /></template>
     );
 
     assert.equal(

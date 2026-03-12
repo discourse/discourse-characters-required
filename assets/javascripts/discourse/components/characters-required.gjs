@@ -1,13 +1,14 @@
+/* eslint-disable ember/no-classic-components, ember/require-tagless-components */
 import Component from "@ember/component";
+import { computed } from "@ember/object";
 import { classNames } from "@ember-decorators/component";
-import discourseComputed from "discourse/lib/decorators";
 import { i18n } from "discourse-i18n";
 
 @classNames("characters-required")
 export default class CharactersRequired extends Component {
-  @discourseComputed("composer.missingReplyCharacters")
-  showRequired(missing) {
-    return missing > 0;
+  @computed("composer.missingReplyCharacters")
+  get showRequired() {
+    return this.composer?.missingReplyCharacters > 0;
   }
 
   <template>

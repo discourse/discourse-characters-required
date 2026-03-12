@@ -7,16 +7,14 @@ module("Integration | Component | characters-required", function (hooks) {
   setupRenderingTest(hooks);
 
   test("it renders", async function (assert) {
-    this.set("composer", { missingReplyCharacters: 10 });
+    const composer = { missingReplyCharacters: 10 };
 
     await render(
-      <template><CharactersRequired @composer={{this.composer}} /></template>
+      <template><CharactersRequired @composer={{composer}} /></template>
     );
 
-    assert.equal(
-      this.element.querySelector("div").innerText,
-      "10 characters required",
-      "shows characters required"
-    );
+    assert
+      .dom("div", this.element)
+      .hasText("10 characters required", "shows characters required");
   });
 });
